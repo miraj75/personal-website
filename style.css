@@ -1,3 +1,23 @@
 h1{
     color: red;
+    font-size: 40px;
+}
+.container{
+    padding-left: 2px;
+    margin-left: 5px;
+    width: 40%;
+    float: left;
+}
+.container img{
+    width: 100%;
+}
+#king{
+    margin: 120px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
 }
