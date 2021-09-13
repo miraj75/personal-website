@@ -16,10 +16,11 @@ h1{
 }
 .top-banner{
     background-image: url(images/header-bg.png);
-}
-section{
     height: 800px;
     padding-bottom: 200px;
+}
+section{
+  
 }
 .link-button{
     text-decoration: none;
@@ -34,11 +35,23 @@ p{
 }
 .biography{
     background-image: url(images/biography-bg.png);
+   
+}
+#second-banner{
+    height: 800px;
+    padding-bottom: 200px;
+}
+.third-banner{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.text-bold{
+    font-size: 50px;
 }
 .latest{
     width: 25%;
     float: left;
-    margin-left: 2%;
+    margin-left: 5%;
     padding-left: 2%;
 }
 .latest img{
@@ -46,4 +59,9 @@ p{
 }
 #alaign{
     text-align: center;
+}
+.last-banner{
+    background-image: url(images/footer-bg.png);
+    height: 400px;
+    padding-bottom: 200px;
 }
